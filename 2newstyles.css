@@ -1,0 +1,379 @@
+#title {
+    color: white;
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    padding: 1% 7% 10%;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.container-fluid {
+    padding: 2% 3% 2% 0%;
+}
+
+hr {
+    border: 7px dashed black;
+    margin: 5px auto;
+    border-bottom: none;
+    border-width: 6px;
+    width: 10%;
+    display: block;
+}
+
+
+/*
+hr {
+    display: block;
+    color: rgb(27, 25, 25);
+    border: dotted;
+    margin: 30px auto;
+    border-bottom: none;
+    border-width: 6px;
+    width: 7%;
+}*/
+
+.section-heading {
+    padding: 3%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+.row {
+    margin: 0 20px 50px 0px;
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+    color: #ffff;
+}
+
+.nav-item {
+    padding: 0 18px;
+    color: white;
+}
+
+.navbar-link {
+    font-size: 1.2rem;
+    font-family: monospace;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    padding-top: 0%;
+    padding-left: 25px;
+    padding-bottom: 0%;
+}
+
+.Lunch_22 {
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    /* background-image: linear-gradient(to left, #eaec47, #6dd5ed, rgb(247, 144, 161));*/
+}
+
+.Snack_22 {
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    /*background-image: linear-gradient(to left, #eaec47, #6dd5ed);*/
+}
+
+.contact {
+    width: 40%;
+    margin: 40px auto 60px;
+    text-align: center;
+}
+
+.brekfast_11 {
+    text-align: center;
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    /*   background-image: linear-gradient(to right, #639fdb, #43cea2, #eaec47);*/
+}
+
+.Dinner22 {
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+    padding-top: 0px;
+    margin: 0px;
+    /*  background-image: linear-gradient(to right, #eaec47, #ffafbd, #ffc3a0);*/
+}
+
+.border {
+    border-style: dotted;
+    width: 10%;
+    text-align: center;
+    height: 0%;
+    color: chartreuse;
+}
+
+.container-fluid1 {
+    background-color: #54d158;
+    color: white;
+    padding: 2% 3% 2% 0%;
+}
+
+.my {
+    font-size: 1rem;
+    color: white;
+}
+
+.my:hover {
+    color: black;
+}
+
+.cake {
+    font-size: 1.5rem;
+    color: rgb(13, 119, 240);
+}
+
+.cake:hover {
+    color: black;
+}
+
+.Dinnertitle {
+    font-size: 1.5rem;
+    color: rgb(20, 128, 20);
+}
+
+.Dinnertitle:hover {
+    color: black;
+}
+
+.brkftitle {
+    font-size: 1.5rem;
+    color: rgb(221, 72, 72);
+}
+
+.brkftitle:hover {
+    color: black;
+}
+
+.Lunchtitle {
+    font-size: 1.5rem;
+    color: rgb(223, 19, 121);
+}
+
+.Lunchtitle:hover {
+    color: black;
+}
+
+.populartitle2 {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 2rem;
+    color: rgb(221, 72, 72);
+}
+
+.populartitle2:hover {
+    color: black;
+}
+
+.populartitle {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 2rem;
+    color: rgb(95, 8, 2);
+}
+
+.populartitle:hover {
+    color: black;
+}
+
+.pr {
+    font-size: 5rem;
+    font-family: 'Akaya Telivigala', cursive;
+    text-align: center;
+    color: rgb(14, 161, 187);
+}
+
+.Myc {
+    font-size: 5rem;
+    font-family: 'Akaya Telivigala', cursive;
+    text-align: center;
+    color: rgb(231, 34, 34);
+}
+
+.Stitle {
+    font-size: 2rem;
+    font-family: 'Akaya Telivigala', cursive;
+    text-align: center;
+    color: rgb(10, 148, 5);
+}
+
+.popularimages {
+    margin: 30px 30px 50px 30px;
+    width: 60%;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.images {
+    margin: 2px 20px 50px 20px;
+    width: 95%;
+    text-align: center;
+}
+
+.btn {
+    color: white;
+    font-size: 1rem;
+    font-family: 'Montserrat';
+}
+
+.downloadbut {
+    margin: 5% 3% 5% 0;
+}
+
+.titleimg {
+    width: 30%;
+    /*
+    transform: rotate(25deg);
+    position: absolute;*/
+    right: 100px;
+}
+
+#features {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.box {
+    padding: 4.5%;
+}
+
+.icon {
+    margin: 1rem;
+}
+
+.icon:hover {
+    color: green;
+}
+
+#testimonial {
+    color: white;
+    background-color: white;
+    text-align: center;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+
+/*
+#testimonial:hovest
+    background-color: #ff
+}*/
+
+.plan {
+    text-align: left;
+}
+
+#press {
+    text-align: center;
+    padding: 20px;
+}
+
+
+/*
+.images {
+    margin: 20px 20px 50px 20px;
+    width: 15%;
+}*/
+
+.card-header {
+    margin: 5% 3% 5% 0;
+    /*
+    padding-left: 10px;
+    padding-right: 10px;*/
+}
+
+#pricing {
+    padding: 100px;
+    text-align: centre;
+}
+
+.price {
+    padding: 2% 3%;
+    text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#footer {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.pic {
+    margin: 5px 10px;
+}
+
+@media(max-width:914px) and (min-width:387px) {
+    .titleimg {
+        width: 60%;
+        position: static;
+        transform: rotate(0);
+    }
+    #title {
+        text-align: center;
+    }
+}
+
+.last {
+    font-size: 3.5rem;
+}
+
+.btnnew {
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    text-shadow: 3px 6px 3px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    background: #2cc21b;
+    padding: 8px 25px 14px 22px;
+    text-decoration: none;
+}
+
+.btnnew:hover {
+    color: papayawhip;
+    background: #07ad28;
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+}
